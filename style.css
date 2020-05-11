@@ -1,0 +1,15 @@
+#footer {
+    padding: 2%;
+    text-align: center;
+}
+
+.social-icon {
+    margin:20px 10px ;
+}
+
+.card-title {
+    text-align: center;
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
