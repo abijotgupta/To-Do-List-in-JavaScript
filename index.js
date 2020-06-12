@@ -43,10 +43,7 @@ function addTask(e)
 
 // Remove task
 
-//here our target element is --->  i
-//e.parentElement gives      --->  a
-//e.parentElement.parentElement--> li
-//Bcoz we have to remove list from the card
+
 function removeTask(e) {
     if(e.target.parentElement.classList.contains('delete-item')) {
         if(confirm('Are You Sure'))
